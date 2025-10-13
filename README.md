@@ -6,6 +6,7 @@
 | - | - | - |
 | [booky.io](https://booky.io/) | Online bookmark manager | Free |
 | [Bort](https://bort.io/) | A bookmarking app with tags that syncs to Dropbox | Free |
+| [Faved](https://github.com/denho/faved) | Bookmark manager with customisable nested tags | FOSS |
 | [Floccus](https://floccus.org/) | Sync your bookmarks privately across browsers and devices | FOSS |
 | [Larder](https://larder.io/) | Bookmarking for developers | $24/year |
 | [Linkding](https://github.com/sissbruecker/linkding) | A bookmark service that you can host yourself | FOSS |
